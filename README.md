@@ -1,7 +1,7 @@
 # Gensyn-BOT-for-SWARM-role
 
 
-# Now Install gSwarm
+# Install gSwarm
 ```
 # Install Go:
 sudo rm -rf /usr/local/go

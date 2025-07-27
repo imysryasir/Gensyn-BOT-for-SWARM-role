@@ -1,15 +1,5 @@
 # Gensyn-BOT-for-SWARM-role
 
-## Get a BOT token on Telegram from @BotFather
-
-## Chat with your bot, Random texts
-
-##  Get CHAT ID > In Your Browser Run 👇 ( Replace <BOT_TOKEN> with your actual token from @BotFather
-```
-https://api.telegram.org/bot<BOT_TOKEN>/getUpdates
-```
-
-## Copy The Chat ID to Notepad also get Your EOA address from https://dashboard.gensyn.ai/
 
 # Now Install gSwarm
 ```
@@ -35,6 +25,17 @@ gswarm --version
 ```
 gswarm
 ```
+## Get a BOT token on Telegram from @BotFather
+
+## Chat with your bot, Random texts
+
+##  Get CHAT ID > In Your Browser Run 👇 ( Replace <BOT_TOKEN> with your actual token from @BotFather
+```
+https://api.telegram.org/bot<BOT_TOKEN>/getUpdates
+```
+
+## Copy The Chat ID to Notepad also get Your EOA address from https://dashboard.gensyn.ai/
+
 
 # Final Step to Get Role is to Get ROLE 😒
 ### Link TG with DC

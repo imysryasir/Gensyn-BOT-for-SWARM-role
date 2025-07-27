@@ -16,15 +16,7 @@ go version
 ```
 go install github.com/Deep-Commit/gswarm/cmd/gswarm@latest
 ```
- 
-## Confirm Installation 
-```
-gswarm --version
-```
-# Run Bot paste Details respectively
-```
-gswarm
-```
+--- 
 ## Get a BOT token on Telegram from @BotFather
 
 ## Chat with your bot, Random texts
@@ -36,7 +28,11 @@ https://api.telegram.org/bot<BOT_TOKEN>/getUpdates
 
 ## Copy The Chat ID to Notepad also get Your EOA address from https://dashboard.gensyn.ai/
 
-
+# Run Bot paste Details respectively
+```
+gswarm
+```
+---
 # Final Step to Get Role is to Get ROLE 😒
 ### Link TG with DC
 
